@@ -1,9 +1,6 @@
-Information is power. But like all power, there are those who want to keep it
-for themselves. The world's entire scientific and cultural heritage, published
-over centuries in books and journals, is increasingly being digitized and locked
-up by a handful of private corporations. Want to read the papers featuring the
-most famous results of the sciences? You'll need to send enormous amounts to
-publishers like Reed Elsevier. 
+ಮಾಹಿತಿ ಒಂದು ಅದ್ಭತ ಶಕ್ಥಿ.  ಅದರೆ ಎಲ್ಲಾ ಅಧಿಕಾರಗಳಂತೆ, ಕೆಲವರು ಇದನ್ನು ತಮ್ಮಲ್ಲಿಯೆ ಇಟ್ಟುಕೋಳ್ಳ ಬಯಸುತ್ತಾರೆ. 
+ಶತಮಾನಗಳಿಂದಲೂ ಪುಸ್ತಕಗಳು ಹಾಗು ನಿಯತಕಾಲಿಕಗಳ ಮೂಲಕ ಪ್ರಕಟಿತವಾದ ಪ್ರಪಂಚದ ವೈಜ್ಞಾನಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯನ್ನು, ಈಗ ಕೆಲವೆ ಕೆಲವು ಖಾಸಗಿ ಸಂಸ್ಥೆಗಳ ಹೆಚ್ಛು ಹೆಚ್ಛಾಗಿ ಡಿಜಿಟೈಜ್ ಮಾಡಿ ಮುಚ್ಚಿಟ್ಟುಕೊಳ್ಳುತ್ತಿವೆ.
+ತಾವು ವಿಜ್ಞಾನದ ಪ್ರಸಿದ್ಧ ಫಲಿತಾಂಶಗಳನ್ನು ಒಳಗೊಂಡ ಲೇಖನಗಳನ್ನು ಓದಿ ಬಯಸುವಿರಾ ? ಅದಕ್ಕೆ ತಾವು ರೀಡ್ ಎಲ್ಸೆವಿಯರ್ ನಂತಹ ಪ್ರಕಾಶಕರಿಗೆಅಪಾರ ಪ್ರಮಾಣದ ಹಣವನ್ನು ಕಳುಹಿಸಬೇಕಾಗುತ್ತದೆ. 
 
 There are those struggling to change this. The Open Access Movement has fought
 valiantly to ensure that scientists do not sign their copyrights away but
